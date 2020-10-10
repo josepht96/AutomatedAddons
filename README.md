@@ -1,2 +1,2 @@
-# AutomatedAddons
-AutomatedAddons
+# To update Addons automatically-ish
+
